@@ -68,7 +68,7 @@ pnpm dev
 
 ## 碎碎念
 
->从一个未接触过前端、看不懂文档的小白, 到能自定义一个博客, 这一路真的很惊奇。
+>从一个未接触过前端、看不懂文档的小白, 到能魔改一个博客, 真的很惊奇。
 >体验过的一些常见的博客框架: [Jekyll](https://jekyllcn.com/docs/home/), [Hexo](https://hexo.io/zh-cn/), [Gitbook](https://www.gitbook.com/), [Vuepress](https://vuepress.vuejs.org/zh/), [Vitepress](https://vitepress.dev/zh/), [Astro](https://astro.build/), 入门了 Git, Html, Css, Js, Nodejs, Vue, Astro
 
 为什么选择 [vitepress](https://vitepress.dev/zh/) 呢? 
